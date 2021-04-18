@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Mc5z2yQ+oUzbhk/31FgyOp3T9hLyYjrL3vupGd7ihjjaJ4ilU8KUhTTUGoolyd5tfS68EcPtWckAF9y0CqYyw==",
+  "success": true,
+  "projectFilePath": "E:\\PP9\\PP9\\PP9.Grains\\PP9.Grains.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.orleans.codegenerator.msbuild\\3.4.2\\microsoft.orleans.codegenerator.msbuild.3.4.2.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.orleans.core.abstractions\\3.4.2\\microsoft.orleans.core.abstractions.3.4.2.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

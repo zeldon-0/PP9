@@ -1,0 +1,14 @@
+E:\PP9\PP9\PP9.Grains\bin\Debug\netcoreapp3.1\PP9.GrainInterfaces.dll
+E:\PP9\PP9\PP9.Grains\obj\Debug\netcoreapp3.1\PP9.Grains.csprojAssemblyReference.cache
+E:\PP9\PP9\PP9.Grains\obj\Debug\netcoreapp3.1\PP9.Grains.AssemblyInfoInputs.cache
+E:\PP9\PP9\PP9.Grains\obj\Debug\netcoreapp3.1\PP9.Grains.AssemblyInfo.cs
+E:\PP9\PP9\PP9.Grains\bin\Debug\netcoreapp3.1\PP9.Grains.deps.json
+E:\PP9\PP9\PP9.Grains\bin\Debug\netcoreapp3.1\PP9.Grains.dll
+E:\PP9\PP9\PP9.Grains\bin\Debug\netcoreapp3.1\PP9.Grains.pdb
+E:\PP9\PP9\PP9.Grains\bin\Debug\netcoreapp3.1\PP9.GrainInterfaces.pdb
+E:\PP9\PP9\PP9.Grains\obj\Debug\netcoreapp3.1\PP9.Grains.orleans.g.args.txt
+E:\PP9\PP9\PP9.Grains\obj\Debug\netcoreapp3.1\PP9.Grains.orleans.g.cs
+E:\PP9\PP9\PP9.Grains\obj\Debug\netcoreapp3.1\PP9.Grains.csproj.CoreCompileInputs.cache
+E:\PP9\PP9\PP9.Grains\obj\Debug\netcoreapp3.1\PP9.Grains.csproj.CopyComplete
+E:\PP9\PP9\PP9.Grains\obj\Debug\netcoreapp3.1\PP9.Grains.dll
+E:\PP9\PP9\PP9.Grains\obj\Debug\netcoreapp3.1\PP9.Grains.pdb

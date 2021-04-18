@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FCwMDhHZ13bzTmZISijSc0XJ0v8oy1JpRBjsOsJ7DINTxpR6psBLyP0okoFfpXqbbZGYmJDEuFyWUZ2JiLmHWg==",
+  "success": true,
+  "projectFilePath": "E:\\PP9\\PP9\\PP9.GrainInterfaces\\PP9.GrainInterfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.orleans.codegenerator.msbuild\\3.4.2\\microsoft.orleans.codegenerator.msbuild.3.4.2.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.orleans.core.abstractions\\3.4.2\\microsoft.orleans.core.abstractions.3.4.2.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
